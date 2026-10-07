@@ -1,0 +1,55 @@
+TAWARICAR V3 FINAL — SEO / TECHNICAL QA
+================================================
+Domain: https://tawaricar.com
+Pages intended for indexation: 36
+Primary phone/WhatsApp: +966549797184
+Design credit: Aptix | حلول برمجيه — +967780595696
+
+PASS  36/36 page architecture
+PASS  Unique <title> across 36 pages
+PASS  Unique meta descriptions
+PASS  Unique H1 and exactly one H1/page
+PASS  Self-canonical for every indexed page
+PASS  Internal link integrity
+PASS  No orphan indexed pages
+PASS  JSON-LD parses on all pages
+PASS  Sitemap contains exactly 36 URLs
+PASS  Business phone consistent
+PASS  WhatsApp consistent
+PASS  Aptix design credit on all pages
+PASS  Logo/favicon/manifest present
+PASS  GitHub Pages CNAME + .nojekyll present
+PASS  Service imagery mapped to each service cluster
+
+CONTENT DEPTH
+- Homepage: 1199 words (approx., main content)
+- Money page min: 700 words (approx., main content)
+- Money page max: 733 words (approx., main content)
+- Service hub min: 795 words (approx., main content)
+- Service hub max: 862 words (approx., main content)
+- Highest normalized same-service city similarity after removing city names: 0.626
+  (V2 was effectively template-level similarity; V3 city/service pages were rewritten with distinct editorial blocks.)
+
+MOBILE DESIGN TARGETS IN CSS
+- Mobile H1: 30px; <=390px: 27px
+- Mobile section spacing: 39px
+- Mobile hero visual max-height: 215px
+- Sticky CTA: 56px minimum, Call larger than WhatsApp
+- Tajawal with font-display=swap via Google Fonts CSS
+
+IMPORTANT RELEASE ITEMS THAT REQUIRE A LIVE SITE / ACCOUNT
+- Enable GitHub Pages and custom domain tawaricar.com.
+- Configure Hostinger DNS according to current GitHub Pages custom-domain instructions.
+- Enable Enforce HTTPS after GitHub validates the domain.
+- Add Search Console Domain Property and submit sitemap.xml.
+- Add GA4 Measurement ID if desired; click_call/click_whatsapp hooks are already implemented.
+- Create/verify a real Google Business Profile as a Service Area Business only if operational/account requirements are satisfied.
+
+CONTENT / TRUST GUARDRAILS
+- No fake address, reviews, ratings, fixed prices, project counts or arrival-time promises.
+- Official SEO coverage remains Dammam, Khobar, Qatif only.
+- No neighborhood doorway pages, spelling-variant pages, or launch blog.
+- Heavy vehicle service remains tire/mechanical/electrical/battery within team capability; hydraulic/heavy towing are not promised.
+- Service visuals are explicitly labeled illustrative; replace progressively with authentic field photos.
+
+ISSUES FOUND: 0
